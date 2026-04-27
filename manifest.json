@@ -1,0 +1,31 @@
+{
+   "action": {
+      "default_icon": {
+         "16": "assets/nekoicon16.png",
+         "48": "assets/nekoicon48.png"
+      },
+      "default_popup": "popup.html",
+      "default_title": "__MSG_appName__"
+   },
+   "content_scripts": [ {
+      "css": [ "content.css" ],
+      "js": [ "content.js" ],
+      "matches": [ "*://*/*" ]
+   } ],
+   "default_locale": "en",
+   "description": "__MSG_appDescription__",
+   "icons": {
+      "128": "assets/nekoicon128.png",
+      "16": "assets/nekoicon16.png",
+      "48": "assets/nekoicon48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA3mI9Nzh4TgPt0ZpqZou4699gbxr5dkduF54keSSJ9b5eoErkM5X3epO8hSkBNwT/NIVgZFEraJkpkopHCZSU+Nag4G1j2Hcc7gesroBJgozFm9gmPlJuVDdzxckKW7EzVMCyNdHc2AfcYD+wcRP1b8PwqsgAzIPnmO4wLfpcqV2vNWpLDyPsfR7V53NF9x4QX64KsGTYgDZYprh8H5SWj/k/IWoLsT+gOKQmjL4CyAQ2Ic0QZ7EmjQ6HpW8Kj9bfzEjtn4qKYsl00RQ0ezyqkKdzAORebGKQVAQULKZYfosUbX+lDCJkbTInzyo3ofJ9FfoUOJbkMjvxiv67Zj7FRwIDAQAB",
+   "manifest_version": 3,
+   "name": "__MSG_appName__",
+   "permissions": [ "storage" ],
+"version": "1.0",
+   "web_accessible_resources": [ {
+      "matches": [ "*://*/*" ],
+      "resources": [ "assets/*" ]
+   } ]
+}

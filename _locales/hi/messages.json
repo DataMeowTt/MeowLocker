@@ -1,0 +1,26 @@
+{
+   "appDescription": {
+      "message": "SNS का बहुत अधिक उपयोग करने पर एक बिल्ली प्रकट होती है"
+   },
+   "appName": {
+      "message": "Cat Gatekeeper"
+   },
+   "breakTimeLabel": {
+      "message": "ब्रेक का समय (मिनट)"
+   },
+   "dismissButton": {
+      "message": "हट जाओ, बिल्ली!"
+   },
+   "saveButton": {
+      "message": "सहेजें"
+   },
+   "savedMessage": {
+      "message": "सहेजा गया!"
+   },
+   "targetSNSLabel": {
+      "message": "लक्षित साइटें"
+   },
+   "usageLimitLabel": {
+      "message": "कितने मिनट बाद बिल्ली आएगी?"
+   }
+}

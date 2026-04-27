@@ -1,0 +1,26 @@
+{
+   "appDescription": {
+      "message": "Aparece un gato cuando usas redes sociales demasiado tiempo"
+   },
+   "appName": {
+      "message": "Cat Gatekeeper"
+   },
+   "breakTimeLabel": {
+      "message": "Tiempo de descanso (minutos)"
+   },
+   "dismissButton": {
+      "message": "¡Apártate, gatito!"
+   },
+   "saveButton": {
+      "message": "Guardar"
+   },
+   "savedMessage": {
+      "message": "¡Guardado!"
+   },
+   "targetSNSLabel": {
+      "message": "Sitios objetivo"
+   },
+   "usageLimitLabel": {
+      "message": "Minutos antes de que aparezca el gato"
+   }
+}

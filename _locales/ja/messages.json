@@ -1,0 +1,26 @@
+{
+   "appDescription": {
+      "message": "SNSを使いすぎると猫が現れて画面をジャック。かわいい強制休憩アプリ。"
+   },
+   "appName": {
+      "message": "Cat Gatekeeper"
+   },
+   "breakTimeLabel": {
+      "message": "猫が居座る時間（分）"
+   },
+   "dismissButton": {
+      "message": "退いてもらう"
+   },
+   "saveButton": {
+      "message": "保存"
+   },
+   "savedMessage": {
+      "message": "保存しました！"
+   },
+   "targetSNSLabel": {
+      "message": "対象のSNS"
+   },
+   "usageLimitLabel": {
+      "message": "SNSを何分使ったら猫を出す？"
+   }
+}

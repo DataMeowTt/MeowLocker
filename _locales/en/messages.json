@@ -1,0 +1,26 @@
+{
+   "appDescription": {
+      "message": "Spend too long on social media? A cat hijacks your screen. The cutest forced-break app."
+   },
+   "appName": {
+      "message": "Cat Gatekeeper"
+   },
+   "breakTimeLabel": {
+      "message": "Break time (minutes)"
+   },
+   "dismissButton": {
+      "message": "Shoo, kitty!"
+   },
+   "saveButton": {
+      "message": "Save"
+   },
+   "savedMessage": {
+      "message": "Saved!"
+   },
+   "targetSNSLabel": {
+      "message": "Target sites"
+   },
+   "usageLimitLabel": {
+      "message": "Minutes before the cat appears"
+   }
+}
